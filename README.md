@@ -6,6 +6,7 @@
 - 💬 Ask me about java backend or machine learning 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gansai/) or [Twitter](https://twitter.com/GSwamypillai)
 - ⚡ Fun fact: Would love to play table tennis
+- 🎫 You can catch my blogs at https://dev.to/inspire99 related to product tech or https://dev.to/gansai9 related to machine learning
 <!--
 **inspire99/inspire99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
