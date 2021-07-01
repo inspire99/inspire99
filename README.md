@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on java backend
+- 🌱 I’m currently learning machine learning 
+- 👯 I’m looking to collaborate on machine learning projects 
+- 💬 Ask me about java backend or machine learning 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gansai/) or [Twitter](https://twitter.com/GSwamypillai)
+- ⚡ Fun fact: Would love to play table tennis
 <!--
 **inspire99/inspire99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
