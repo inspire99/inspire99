@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on java backend
+- 🔭 I’m currently specialized in fullstack ( java/ javascript )
 - 🌱 I’m currently learning machine learning 
 - 👯 I’m looking to collaborate on machine learning projects 
 - 💬 Ask me about java backend or machine learning 
